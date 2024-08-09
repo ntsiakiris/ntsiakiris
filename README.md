@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ntsiakiris&label=Profile%20views&color=0e75b6&style=flat" alt="ntsiakiris" /> </p>
 
-- 🌱 I’m currently learning **ReactJs, Tailwind CSS**
+- 🌱 I’m currently learning **ReactJs,NextJs,Typescript,Redux and Tailwind CSS**
 
 - 👨‍💻 All of my projects are available at [https://tsiakiris-nikolaos.vercel.app/](https://tsiakiris-nikolaos.vercel.app/)
 
