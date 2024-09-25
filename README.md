@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **ReactJs,NextJs,Typescript,Redux and Tailwind CSS**
 
-- 👨‍💻 All of my projects are available at [https://tsiakiris-nikolaos.vercel.app/](https://tsiakiris-nikolaos.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://www.tsiakirisnikos.com/](https://www.tsiakirisnikos.com/)
 
 - 💬 Ask me about **react**
 
